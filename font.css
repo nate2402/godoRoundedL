@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'godoRoundedL';
+  src: url('godoRoundedL.eot');
+  src: url('godoRoundedL.woff2') format('woff2'),
+       url('godoRoundedL.woff') format('woff'),
+       url('godoRoundedL.ttf') format('truetype'),
+       url('godoRoundedL.svg#godoRoundedL') format('svg'),
+       url('godoRoundedL.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
